@@ -13,7 +13,7 @@ This is a simple and clean HTML/CSS website that explores **how Artificial Intel
 ## 🚀 How to View
 
 Visit the live website here:
-`https://dlozf.github.io/csci1101``/`
+`https://dlozf.github.io/csci1101/`
 
 > Replace with your actual GitHub username and repo name!
 
