@@ -10,6 +10,13 @@ This is a simple and clean HTML/CSS website that explores **how Artificial Intel
 * 🎯 Examples of AI tools like grammar checkers, essay assistants, and quiz generators
 * 🎨 Beige background with modern, easy-to-read design
 
+## 🚀 How to View
+
+Visit the live website here:
+`https://dlozf.github.io/csci1101``/`
+
+> Replace with your actual GitHub username and repo name!
+
 ## 🛠️ Technologies Used
 
 * HTML5
@@ -23,4 +30,4 @@ This is a simple and clean HTML/CSS website that explores **how Artificial Intel
 
 ## ✍️ Author
 
-Created by Diego Lozano for a web development class project in 2025.
+Created by \[Your Name] for a web development class project in 2025.
